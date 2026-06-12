@@ -57,19 +57,6 @@ I am a passionate Front-End Developer dedicated to building modern, responsive, 
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning Fundamentals | Intermediate | Supervised & Unsupervised Learning Concepts |
-| AI Product Engineering | Intermediate | AI Integration into Web Applications |
-| Prompt Engineering | Advanced | Structured Prompt Design & Optimization |
-| Data Analysis | Intermediate | Data Cleaning & Visualization Workflows |
-| Automation Systems | Intermediate | Workflow Automation & Productivity Systems |
-| Generative AI | Intermediate | LLM Applications & AI-Assisted Development |
-
----
-
 # Featured Projects
 
 <details>
