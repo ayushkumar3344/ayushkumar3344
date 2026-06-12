@@ -224,16 +224,6 @@ Worked on real-world web development projects using the MERN Stack ecosystem whi
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushkumar3344&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
