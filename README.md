@@ -182,26 +182,6 @@ Worked on real-world web development projects using the MERN Stack ecosystem whi
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-0047AB?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
 # Coding Profiles
 
 <div align="center">
