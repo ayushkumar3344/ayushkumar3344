@@ -43,22 +43,11 @@
 
 ---
 
-# About
+# 💫About Me:
 
-Software Engineer focused on building modern, scalable, and high-performance web applications with a strong emphasis on product quality, maintainability, and user experience.
+Hey 👋 I'm Ayush 
 
-My expertise spans Frontend Development, Full Stack Engineering, and modern JavaScript ecosystems. I enjoy transforming complex business requirements into elegant digital experiences while maintaining engineering excellence and clean architecture principles.
-
-Alongside web development, I actively explore Artificial Intelligence, Machine Learning workflows, automation systems, and AI-powered product engineering to stay aligned with the future of software development.
-
-### Open To
-
-- Frontend Developer Roles
-- MERN Stack Developer Opportunities
-- Software Engineering Internships
-- Open Source Collaborations
-- Product Engineering Teams
-- AI-Powered Web Application Development
+I am a passionate Front-End Developer dedicated to building modern, responsive, and user-friendly web applications. With a strong foundation in HTML, CSS, and JavaScript, I enjoy creating clean interfaces and engaging user experiences. Currently, I am expanding my expertise in React.js, advanced JavaScript concepts, and front-end best practices. I am always eager to learn new technologies, collaborate on innovative projects, and continuously improve my skills as a web developer.
 
 ---
 
